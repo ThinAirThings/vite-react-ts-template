@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    user-select: none;
+}
